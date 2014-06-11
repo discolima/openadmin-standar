@@ -1,0 +1,6 @@
+table#gridGastos tbody td[aria-describedby='gridGastos_nombre']{font-weight:bold !important;}
+form#formDate {display:block;text-align:right;width:100%;}
+form#formDate label {border-bottom: 1px solid #656565;padding:opx;margin:0px 0px 0px 15px;}
+div[id^="dialog-form"] form label,div[id^="dialog-form"] form input { display:block; }
+div[id^="dialog-form"] form input.text { margin-bottom:12px;width:95%;padding:.4em; }
+div#dialog-form-xml div#respuesta, div#dialog-form-email div#respuesta2 {min-height:20px;visibility:hidden;padding:5px;margin-bottom:5px;}

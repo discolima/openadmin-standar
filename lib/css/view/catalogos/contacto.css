@@ -1,0 +1,4 @@
+form label,form input { display:block; }
+form input.text { margin-bottom:12px; width:95%; padding: .4em; }
+p.submit {text-align:right;}
+p.submit input[type='submit']{display:inline;}

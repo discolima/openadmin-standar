@@ -1,0 +1,47 @@
+ul.form {
+    height: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px;
+    width: 94%;
+}
+ul.form li {
+    height: 32px;
+    margin: 5px;
+    overflow: hidden;
+    position: relative;
+    background:#F7F6F0;
+}
+ul.form li label {
+	display:table-cell;
+	background:#BD3F09;
+	height:28px;
+	width:150px;
+	text-align: right;
+    vertical-align: middle;
+    border: 1px solid #656565;
+    font-weight:bold;
+    padding: 0px 8px 0px 0px;
+}
+ul.form li span{
+	display:table-cell;
+	text-align: left;
+    vertical-align: middle;
+    padding: 0px 8px;
+    text-transform: uppercase;
+}
+table {marin:0px auto;}
+tr.Key th,tr.Key td{
+	text-align:right;
+	background:#F7F6F0;
+}
+td.Num{
+	text-align:right;
+}
+div#catid {display:block;text-align:right;width:100%;}
+div#catid label {border-bottom: 1px solid #656565;padding:opx;margin:0px 0px 0px 15px;}
+/* Email */
+form label,form input { display:block; }
+form input.text { margin-bottom:12px; width:95%; padding: .4em; }
+form div#respuesta, form div#formNew-res {min-height:20px;visibility:hidden;padding:5px;margin-bottom:5px;}
+

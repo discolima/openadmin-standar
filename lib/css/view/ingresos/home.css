@@ -1,0 +1,5 @@
+table#gridIngresos tbody td[aria-describedby='gridIngresos_nombre']{font-weight:bold !important;}
+table#gridIngresos tbody td[title='timbrada']{text-transform:uppercase;}
+table#gridIngresos tbody td[title='cancelada']{text-transform:uppercase;font-weight:bold !important;}
+table#gridIngresos tbody td[title='sin timbrar']{color:#BD3F09;}
+div#form {display:block;text-align:right;width:100%;margin:0px 0px 5px 0px;}

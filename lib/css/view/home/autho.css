@@ -1,0 +1,6 @@
+form label,form input{display:block}
+form label{font-weight:bold}
+form input.text, form input.password {margin-bottom:12px;width:95%;padding:.4em; }
+div#panel {min-height:20px;visibility:hidden;padding:5px;margin-bottom:5px;}
+p.submit {text-align:right;}
+p.submit input[type='submit']{display:inline;}

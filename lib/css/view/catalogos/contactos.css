@@ -1,0 +1,4 @@
+table#gridContacs tbody td[aria-describedby='gridContacs_name']{font-weight:bold !important;}
+div#dialog-form-new form label,form input { display:block; }
+div#dialog-form-new form input.text { margin-bottom:12px; width:95%; padding: .4em; }
+div#dialog-form-new div#formNew-res {min-height:20px;visibility:hidden;padding:5px;margin-bottom:5px;}
